@@ -1,5 +1,6 @@
 # MSA Ecommerce
 - [MSA Ecommerce] Config Server
+![configserver](https://user-images.githubusercontent.com/42602972/165476498-5bc9b445-cdc4-4c6c-8ed4-c95c9a2735d8.png)
 
 ## 프로젝트 개발 구성
 - Java 8
