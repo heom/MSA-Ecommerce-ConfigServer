@@ -37,5 +37,3 @@
   - yml 파일 수정
     - [application.yml](src/main/resources/application.yml)
       - spring.cloud.config.server.git.uri : file://${로컬 저장소}
-  - userService-local.yml 내 로컬 아이피 적용
-    - gateway.ip: ${로컬 아이피} 
